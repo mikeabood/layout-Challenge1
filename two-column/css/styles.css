@@ -1,0 +1,29 @@
+.header{
+  background-color: #b8c3d2;
+  height: 150px;
+  margin-bottom: 10px;
+}
+
+.left-col{
+  background-color:#b8c3d2;
+  float:left;
+  height: 600px;
+  width: 84%;
+  margin-bottom: 10px;
+}
+
+.right-col{
+  background-color:#b8c3d2;
+  float:right;
+  height: 600px;
+  width: 15%;
+  margin-bottom: 5px;
+}
+
+footer {
+  background-color: #b8c3d2;
+  height: 150px;
+  bottom: 0;
+  clear: both;
+  margin-bottom: 5px;
+}
